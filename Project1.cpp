@@ -6,6 +6,7 @@ USERES("Project1.res");
 USEFORM("Unit1.cpp", Form1);
 USEUNIT("Steuerung.cpp");
 USEUNIT("Daten.cpp");
+USEUNIT("Log.cpp");
 //---------------------------------------------------------------------------
 WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	try {
